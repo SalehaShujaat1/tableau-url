@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tableau-url/static/css/main.572815df.css",
+    "main.js": "/tableau-url/static/js/main.e9ef90c7.js",
+    "static/media/github.svg": "/tableau-url/static/media/github.ca3156b4372e9d26fc1d699002d06890.svg",
+    "index.html": "/tableau-url/index.html",
+    "main.572815df.css.map": "/tableau-url/static/css/main.572815df.css.map",
+    "main.e9ef90c7.js.map": "/tableau-url/static/js/main.e9ef90c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.572815df.css",
+    "static/js/main.e9ef90c7.js"
+  ]
+}
