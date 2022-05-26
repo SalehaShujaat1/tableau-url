@@ -7,7 +7,7 @@ function Header() {
   return (
     <Router>
       <div className="App">
-        {/* {<nav className="navBar">
+        {<nav className="navBar">
           <ul>
             <li>
               <Link to="/">Home</Link>
@@ -46,7 +46,7 @@ function Header() {
               <Link to="/animation">Animation</Link>
             </li>
           </ul>
-        </nav>} */}
+        </nav>}
 
         <Main />
       </div>
